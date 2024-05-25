@@ -11,8 +11,6 @@ ChatGPT: Dentro do mesmo chat de criação do artigo técnico (https://github.co
 
 DALL-E/Bing: Crie a imagem de uma mulher apresentadora de podcast sobre mercado financeiro e tecnologia. Ela é jovem e descolada. Ela está sentada em um estúdio de gravação.
 
-![podcaster maria jfp](https://github.com/juliannepeixoto/lab-natty-or-not/assets/101682866/1703e56c-6d13-4680-95d6-69c253b3e304)
-
 D-ID: Criação de voz e vídeo para a imagem/personagem gerada no DALL-E.
 
 https://github.com/juliannepeixoto/lab-natty-or-not/assets/101682866/0c23c2d1-00a2-4e64-9685-4a38070433c5
